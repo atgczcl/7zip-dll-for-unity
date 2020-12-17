@@ -1,0 +1,9 @@
+E:\unitywork\7zipDll\7zipDll\obj\Debug\7zipDll.csprojAssemblyReference.cache
+E:\unitywork\7zipDll\7zipDll\obj\Debug\7zipDll.csproj.CoreCompileInputs.cache
+E:\unitywork\7zipDll\7zipDll\bin\Debug\7zipDll.dll
+E:\unitywork\7zipDll\7zipDll\bin\Debug\7zipDll.pdb
+E:\unitywork\7zipDll\7zipDll\obj\Debug\7zipDll.dll
+E:\unitywork\7zipDll\7zipDll\obj\Debug\7zipDll.pdb
+E:\unitywork\7zipDll\7zipDll\bin\Debug\UnityEngine.dll
+E:\unitywork\7zipDll\7zipDll\bin\Debug\UnityEngine.xml
+E:\unitywork\7zipDll\7zipDll\obj\Debug\7zipDll.csproj.CopyComplete
